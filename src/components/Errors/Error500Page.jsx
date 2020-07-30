@@ -1,8 +1,7 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import ErrorWrapper from './styles/ErrorWrapper';
-import { Link } from 'react-router-dom/cjs/react-router-dom.min';
 import { Button } from 'antd';
+import React from 'react';
+import { Link } from 'react-router-dom/cjs/react-router-dom.min';
+import ErrorWrapper from './styles/ErrorWrapper';
 
 Error500Page.propTypes = {};
 
